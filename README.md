@@ -161,6 +161,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
   - Access to project updates and newsletters.
 - **Description**:
   - Ideal for individuals or small organizations who want to support the project without needing additional perks.
+- [Sponsor Now](https://buy.stripe.com/7sY28rfiYavA3Hg6Cygfu0C)
 
 ## Contributor Tier - $100/month
 - **Benefits**:
@@ -169,6 +170,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
   - Standard support for issues and feature requests.
 - **Description**:
   - Suitable for users or companies who actively use the simulator and want to stay ahead of updates.
+- [Sponsor Now](https://buy.stripe.com/aFa14n3Ag0V00v48KGgfu0D)
 
 ## Patron Tier - $500/month
 - **Benefits**:
@@ -178,6 +180,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
   - Logo displayed on the project's homepage.
 - **Description**:
   - Designed for companies or organizations that rely heavily on the simulator and want their needs addressed promptly.
+- [Sponsor Now](https://buy.stripe.com/6oU5kD0o4avA5Po8KGgfu0E)
 
 ## Director Tier - $5,000/year
 - **Benefits**:
@@ -187,6 +190,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
   - Invitation to an Advisory Board to provide input on major project directions.
 - **Description**:
   - For organizations that want a significant say in the project's future while ensuring their use cases are prioritized.
+- [Sponsor Now](https://buy.stripe.com/9B6aEXc6McDI1z88KGgfu0F)
 
 ## Founder Tier - $50,000/year
 - **Benefits**:
@@ -196,7 +200,17 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
   - Co-branding opportunities (e.g., company name/logo prominently featured in project materials).
 - **Description**:
   - For major stakeholders who want to deeply integrate the project into their operations and ensure it aligns with their long-term goals.
+- (Note: Sponsorship at this level is by arrangement. Please contact us directly.) 
 
+## Contact
+
+- **Email**: `zimmermanmb99@gmail.com`
+- **Website**: `www.versoindustries.com` (currently not live)
+- **Commercial Licensing**: See `COMMERCIAL-LICENSE.md`
+
+## Discord Server
+
+https://discord.gg/pBrSPbaMnM
 
 ## Citation
 
