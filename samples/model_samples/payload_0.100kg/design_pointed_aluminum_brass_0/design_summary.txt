@@ -1,0 +1,11 @@
+Design ID: pointed_aluminum_brass_0
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 38.265 mm
+Collector Length: 0.140 m
+Voltage: 130.7 kV
+Shape: pointed
+Emitter Material: aluminum
+Collector Material: brass
+Thrust: 0.001282 N
+Total System Weight: 0.0715 kg

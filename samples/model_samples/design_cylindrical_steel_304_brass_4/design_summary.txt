@@ -1,0 +1,11 @@
+Design ID: cylindrical_steel_304_brass_4
+Emitter Radius: 1.000 mm
+Collector Radius: 95.000 mm
+Gap Distance: 5.000 mm
+Collector Length: 0.190 m
+Voltage: 10.0 kV
+Shape: cylindrical
+Emitter Material: steel_304
+Collector Material: brass
+Thrust: 0.000000 N
+Total System Weight: 0.1525 kg

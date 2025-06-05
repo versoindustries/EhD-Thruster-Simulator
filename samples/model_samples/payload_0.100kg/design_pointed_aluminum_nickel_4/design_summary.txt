@@ -1,0 +1,11 @@
+Design ID: pointed_aluminum_nickel_4
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 39.208 mm
+Collector Length: 0.078 m
+Voltage: 168.6 kV
+Shape: pointed
+Emitter Material: aluminum
+Collector Material: nickel
+Thrust: 0.004189 N
+Total System Weight: 0.0657 kg

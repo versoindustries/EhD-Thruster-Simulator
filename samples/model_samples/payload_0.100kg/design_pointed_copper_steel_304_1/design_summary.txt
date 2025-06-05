@@ -1,0 +1,11 @@
+Design ID: pointed_copper_steel_304_1
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 29.053 mm
+Collector Length: 0.169 m
+Voltage: 308.4 kV
+Shape: pointed
+Emitter Material: copper
+Collector Material: steel_304
+Thrust: 0.002342 N
+Total System Weight: 0.0739 kg

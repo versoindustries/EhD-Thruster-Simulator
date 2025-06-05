@@ -1,0 +1,11 @@
+Design ID: pointed_nickel_copper_1
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 29.119 mm
+Collector Length: 0.119 m
+Voltage: 358.9 kV
+Shape: pointed
+Emitter Material: nickel
+Collector Material: copper
+Thrust: 0.001958 N
+Total System Weight: 0.0709 kg

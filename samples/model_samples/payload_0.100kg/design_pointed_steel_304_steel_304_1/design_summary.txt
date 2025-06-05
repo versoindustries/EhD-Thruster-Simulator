@@ -1,0 +1,11 @@
+Design ID: pointed_steel_304_steel_304_1
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 13.639 mm
+Collector Length: 0.052 m
+Voltage: 146.8 kV
+Shape: pointed
+Emitter Material: steel_304
+Collector Material: steel_304
+Thrust: 0.000108 N
+Total System Weight: 0.0627 kg

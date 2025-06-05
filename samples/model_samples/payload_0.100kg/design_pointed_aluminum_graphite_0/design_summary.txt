@@ -1,0 +1,11 @@
+Design ID: pointed_aluminum_graphite_0
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 37.236 mm
+Collector Length: 0.121 m
+Voltage: 458.8 kV
+Shape: pointed
+Emitter Material: aluminum
+Collector Material: graphite
+Thrust: 0.003240 N
+Total System Weight: 0.0606 kg

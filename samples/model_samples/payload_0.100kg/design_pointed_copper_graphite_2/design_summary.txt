@@ -1,0 +1,11 @@
+Design ID: pointed_copper_graphite_2
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 36.827 mm
+Collector Length: 0.085 m
+Voltage: 441.8 kV
+Shape: pointed
+Emitter Material: copper
+Collector Material: graphite
+Thrust: 0.002016 N
+Total System Weight: 0.0603 kg

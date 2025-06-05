@@ -1,0 +1,11 @@
+Design ID: pointed_steel_304_graphite_4
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 22.103 mm
+Collector Length: 0.042 m
+Voltage: 206.0 kV
+Shape: pointed
+Emitter Material: steel_304
+Collector Material: graphite
+Thrust: 0.001261 N
+Total System Weight: 0.0590 kg

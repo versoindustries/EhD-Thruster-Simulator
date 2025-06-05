@@ -1,0 +1,11 @@
+Design ID: pointed_copper_brass_0
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 21.851 mm
+Collector Length: 0.122 m
+Voltage: 227.3 kV
+Shape: pointed
+Emitter Material: copper
+Collector Material: brass
+Thrust: 0.000893 N
+Total System Weight: 0.0704 kg

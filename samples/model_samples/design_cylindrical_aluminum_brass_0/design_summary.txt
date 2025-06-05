@@ -1,0 +1,11 @@
+Design ID: cylindrical_aluminum_brass_0
+Emitter Radius: 18.648 mm
+Collector Radius: 39.749 mm
+Gap Distance: 19.704 mm
+Collector Length: 0.137 m
+Voltage: 55.2 kV
+Shape: cylindrical
+Emitter Material: aluminum
+Collector Material: brass
+Thrust: 0.006603 N
+Total System Weight: 0.1151 kg

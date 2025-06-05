@@ -1,0 +1,11 @@
+Design ID: pointed_aluminum_copper_2
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 10.664 mm
+Collector Length: 0.049 m
+Voltage: 185.8 kV
+Shape: pointed
+Emitter Material: aluminum
+Collector Material: copper
+Thrust: 0.000097 N
+Total System Weight: 0.0626 kg

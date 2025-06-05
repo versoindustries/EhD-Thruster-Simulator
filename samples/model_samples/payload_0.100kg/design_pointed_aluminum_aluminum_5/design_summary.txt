@@ -1,0 +1,11 @@
+Design ID: pointed_aluminum_aluminum_5
+Emitter Radius: 1.900 mm
+Collector Radius: 19.200 mm
+Gap Distance: 34.189 mm
+Collector Length: 0.083 m
+Voltage: 429.0 kV
+Shape: pointed
+Emitter Material: aluminum
+Collector Material: aluminum
+Thrust: 0.001769 N
+Total System Weight: 0.0600 kg

@@ -1,0 +1,11 @@
+Design ID: cylindrical_aluminum_copper_1
+Emitter Radius: 18.240 mm
+Collector Radius: 40.598 mm
+Gap Distance: 8.354 mm
+Collector Length: 0.080 m
+Voltage: 446.2 kV
+Shape: cylindrical
+Emitter Material: aluminum
+Collector Material: copper
+Thrust: 0.019115 N
+Total System Weight: 0.1035 kg
