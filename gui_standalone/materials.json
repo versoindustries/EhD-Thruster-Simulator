@@ -1,0 +1,94 @@
+{
+    "materials": {
+        "tungsten": {
+            "density_kg_m3": 19250,
+            "elec_conductivity_S_m": 1.82e7,
+            "therm_conductivity_W_mK": 173,
+            "melting_point_C": 3422,
+            "tensile_strength_MPa": 1510,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "copper": {
+            "density_kg_m3": 8960,
+            "elec_conductivity_S_m": 5.96e7,
+            "therm_conductivity_W_mK": 401,
+            "melting_point_C": 1085,
+            "tensile_strength_MPa": 210,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "aluminum": {
+            "density_kg_m3": 2700,
+            "elec_conductivity_S_m": 3.77e7,
+            "therm_conductivity_W_mK": 237,
+            "melting_point_C": 660,
+            "tensile_strength_MPa": 90,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "steel_304": {
+            "density_kg_m3": 7800,
+            "elec_conductivity_S_m": 1.45e6,
+            "therm_conductivity_W_mK": 16.2,
+            "melting_point_C": 1450,
+            "tensile_strength_MPa": 515,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "platinum": {
+            "density_kg_m3": 21450,
+            "elec_conductivity_S_m": 9.43e6,
+            "therm_conductivity_W_mK": 71.6,
+            "melting_point_C": 1768,
+            "tensile_strength_MPa": 125,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "titanium": {
+            "density_kg_m3": 4506,
+            "elec_conductivity_S_m": 2.38e6,
+            "therm_conductivity_W_mK": 21.9,
+            "melting_point_C": 1668,
+            "tensile_strength_MPa": 434,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "nickel": {
+            "density_kg_m3": 8908,
+            "elec_conductivity_S_m": 1.43e7,
+            "therm_conductivity_W_mK": 90.9,
+            "melting_point_C": 1455,
+            "tensile_strength_MPa": 460,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "graphite": {
+            "density_kg_m3": 2260,
+            "elec_conductivity_S_m": 2e5,
+            "therm_conductivity_W_mK": 150,
+            "melting_point_C": 3600,
+            "tensile_strength_MPa": 20,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        },
+        "brass": {
+            "density_kg_m3": 8400,
+            "elec_conductivity_S_m": 1.59e7,
+            "therm_conductivity_W_mK": 120,
+            "melting_point_C": 930,
+            "tensile_strength_MPa": 350,
+            "corona_onset_V_m": 3.0e6,
+            "townsend_A": 1.48e-4,
+            "townsend_B": 3.6
+        }
+    }
+  }

@@ -1,0 +1,44 @@
+{
+    "Samsung_50E": {
+      "capacity_mAh": 5000,
+      "nominal_voltage_V": 3.7,
+      "max_voltage_V": 4.2,
+      "weight_g": 70,
+      "max_continuous_discharge_A": 10
+    },
+    "Samsung_40T": {
+      "capacity_mAh": 4000,
+      "nominal_voltage_V": 3.7,
+      "max_voltage_V": 4.2,
+      "weight_g": 68,
+      "max_continuous_discharge_A": 35
+    },
+    "Samsung_50S": {
+      "capacity_mAh": 5000,
+      "nominal_voltage_V": 3.7,
+      "max_voltage_V": 4.2,
+      "weight_g": 70,
+      "max_continuous_discharge_A": 25
+    },
+    "Samsung_30T": {
+      "capacity_mAh": 3000,
+      "nominal_voltage_V": 3.7,
+      "max_voltage_V": 4.2,
+      "weight_g": 67,
+      "max_continuous_discharge_A": 35
+    },
+    "Samsung_48G": {
+      "capacity_mAh": 4800,
+      "nominal_voltage_V": 3.63,
+      "max_voltage_V": 4.2,
+      "weight_g": 68,
+      "max_continuous_discharge_A": 10
+    },
+    "Samsung_50G": {
+      "capacity_mAh": 4850,
+      "nominal_voltage_V": 3.63,
+      "max_voltage_V": 4.2,
+      "weight_g": 69,
+      "max_continuous_discharge_A": 10
+    }
+  }
