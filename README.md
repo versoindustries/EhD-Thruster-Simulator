@@ -148,6 +148,7 @@ Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and report issues via [G
 ## Notes
 
 There are currently several variations of our end cap we are prototyping with right now, will update the code with the most efficient model.
+Top ring for the wire is not that great of a mechanical design, as learned from the first prototype. Update coming with a much cleaner design. 
 
 ## License
 
