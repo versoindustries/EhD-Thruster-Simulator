@@ -154,64 +154,10 @@ Top ring for the wire is not that great of a mechanical design, as learned from 
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-# EhD-Thruster-Simulator Sponsorship Tiers
-
-## Supporter Tier - $10/month
-- **Benefits**:
-  - Recognition on the project's website and documentation.
-  - Access to project updates and newsletters.
-- **Description**:
-  - Ideal for individuals or small organizations who want to support the project without needing additional perks.
-- [Sponsor Now](https://buy.stripe.com/7sY28rfiYavA3Hg6Cygfu0C)
-
-## Contributor Tier - $100/month
-- **Benefits**:
-  - All Supporter Tier benefits.
-  - Early access to new features and releases (e.g., beta versions or private repository access).
-  - Standard support for issues and feature requests.
-- **Description**:
-  - Suitable for users or companies who actively use the simulator and want to stay ahead of updates.
-- [Sponsor Now](https://buy.stripe.com/aFa14n3Ag0V00v48KGgfu0D)
-
-## Patron Tier - $500/month
-- **Benefits**:
-  - All Contributor Tier benefits.
-  - Priority support for issues and bug fixes.
-  - Feature request prioritization (requests considered in the next development cycle).
-  - Logo displayed on the project's homepage.
-- **Description**:
-  - Designed for companies or organizations that rely heavily on the simulator and want their needs addressed promptly.
-- [Sponsor Now](https://buy.stripe.com/6oU5kD0o4avA5Po8KGgfu0E)
-
-## Director Tier - $5,000/year
-- **Benefits**:
-  - All Patron Tier benefits.
-  - Guaranteed inclusion of one feature request per year (subject to feasibility and project maintainers' approval).
-  - Participation in quarterly strategy meetings with project maintainers to discuss roadmap and strategic decisions.
-  - Invitation to an Advisory Board to provide input on major project directions.
-- **Description**:
-  - For organizations that want a significant say in the project's future while ensuring their use cases are prioritized.
-- [Sponsor Now](https://buy.stripe.com/9B6aEXc6McDI1z88KGgfu0F)
-
-## Founder Tier - $50,000/year
-- **Benefits**:
-  - All Director Tier benefits.
-  - Opportunity to sponsor a major project milestone or release (e.g., funding a specific version or feature set).
-  - Custom development work on a specific module or feature (within the scope of the project and open-source principles).
-  - Co-branding opportunities (e.g., company name/logo prominently featured in project materials).
-- **Description**:
-  - For major stakeholders who want to deeply integrate the project into their operations and ensure it aligns with their long-term goals.
-- (Note: Sponsorship at this level is by arrangement. Please contact us directly.) 
 
 ## Contact
 
 - **Email**: `zimmermanmb99@gmail.com`
-- **Website**: `www.versoindustries.com` (currently not live)
-- **Commercial Licensing**: See `COMMERCIAL-LICENSE.md`
-
-## Discord Server
-
-https://discord.gg/pBrSPbaMnM
 
 ## Citation
 
